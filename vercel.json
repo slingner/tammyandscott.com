@@ -4,5 +4,11 @@
       "source": "/",
       "destination": "https://www.zola.com/wedding/scottyandtammy"
     }
+  ],
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "https://tammyandscott.com/"
+    }
   ]
 }
