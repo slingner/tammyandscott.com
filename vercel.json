@@ -7,7 +7,7 @@
   ],
   "rewrites": [
     {
-      "source": "https://www.zola.com/wedding/scottyandtammy",
+      "source": "/zola.com/wedding/scottyandtammy",
       "destination": "https://tammyandscott.com/"
     }
   ]
