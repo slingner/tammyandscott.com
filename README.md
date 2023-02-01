@@ -1,1 +1,0 @@
-# tammyandscott.com
