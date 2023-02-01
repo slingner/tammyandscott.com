@@ -7,7 +7,7 @@
   ],
   "rewrites": [
     {
-      "source": "tammyandscott.vercel.app",
+      "source": "www.zola.com/wedding/scottyandtammy",
       "destination": "https://tammyandscott.com/"
     }
   ]
