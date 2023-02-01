@@ -7,7 +7,6 @@
   ],
   "rewrites": [
     {
-      "trailingSlash": true,
       "source": "/",
       "destination": "https://www.tammyandscott.com/"
     }
