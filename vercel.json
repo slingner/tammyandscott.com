@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "[https://www.zola.com/wedding/scottyandtammy](https://www.zola.com/wedding/scottyandtammy)"
+      "destination": "https://www.zola.com/wedding/scottyandtammy"
     }
   ]
 }
