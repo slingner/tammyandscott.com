@@ -8,7 +8,7 @@
   "rewrites": [
     {
       "source": "/**",
-      "destination": "/scottyandtammy.com"
+      "destination": "https://www.tammyandscott.com"
     }
   ]
 }
