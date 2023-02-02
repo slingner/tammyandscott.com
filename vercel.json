@@ -1,13 +1,16 @@
 {
-  "routes": [
+  "redirects": [
     {
-      "src": "/(.+)",
-      "dest": "https://tammyandscott.com/$1"
-    },
-    {
-      "src": "/(.+)",
-      "status": 307,
-      "headers": { "Location": "https://tammyandscott.com/$1" }
+      "source": "/",
+      "destination": "https://www.zola.com/wedding/scottyandtammy",
+      "permanent": true
     }
-  ]
+  ],
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "https://www.tammyandscott.com/"
+    }
+  ],
+  "trailingSlash": true
 }
